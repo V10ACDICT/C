@@ -1,0 +1,5 @@
+312 sato 60 82 74
+553 suzuki 70 92 74
+147 takahashi 81 66 74
+206 tanaka 81 66 70
+447 watanabe 65 88 90
